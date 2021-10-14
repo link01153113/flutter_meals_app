@@ -13,12 +13,24 @@ An app that can check different categories of meals, ingredients, and steps to m
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>Drawer Tabs</td>
+     <td>Filters for different meal selection with switch to save on the right corner</td>
   </tr>
   <tr>
     <td><img src="appImages/1.png" width=270 height=480></td>
     <td><img src="appImages/2.png" width=270 height=480></td>
     <td><img src="appImages/3.png" width=270 height=480></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Meals in different categories</td>
+     <td>Detail Page for each meals</td>
+     <td>Function to add meals into Favorites using the bottom right button</td>
+  </tr>
+  <tr>
+    <td><img src="appImages/4.png" width=270 height=480></td>
+    <td><img src="appImages/5.png" width=270 height=480></td>
+    <td><img src="appImages/6.png" width=270 height=480></td>
   </tr>
  </table>

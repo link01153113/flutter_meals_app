@@ -1,16 +1,24 @@
 # flutter_meals_app
 
-A new Flutter project.
+An app that can check different categories of meals, ingredients, and steps to make the meals.
 
-## Getting Started
+## Function used
 
-This project is a starting point for a Flutter application.
+1. This project uses Screens, Routes, Pages.
+2. Passing Data via arguments
+3. Add AppBar at the bottom of the page and allows user to switch between different stack
+4. Drawers is used
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Look
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="appImages/1.png" width=270 height=480></td>
+    <td><img src="appImages/2.png" width=270 height=480></td>
+    <td><img src="appImages/3.png" width=270 height=480></td>
+  </tr>
+ </table>
